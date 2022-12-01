@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: api.kafka.listner.KafkaListnerApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.29 s - in api.kafka.listner.KafkaListnerApplicationTests
